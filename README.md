@@ -33,8 +33,3 @@ This project explores hotel reservations data to extract insights and predict bo
 - `/visualizations`: Visual outputs generated from analysis.
 - `/scripts`: Useful scripts for data preprocessing and model training.
 
-## Getting Started 🚀
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/hotel-reservations-analysis.git
