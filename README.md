@@ -28,8 +28,8 @@ This project explores hotel reservations data to extract insights and predict bo
 
 ## Repository Structure 📁
 
-- `/data`: Contains the dataset used for analysis.
-- `/notebooks`: Jupyter notebooks for EDA, clustering, and predictive modeling.
+- `/Hotel Reservations.csv`: It's the dataset used for analysis.
+- `/notebooks`: Jupyter notebooks for EDA, clustering, and predictive modeling (exist in the different folders).
 - `/visualizations`: Visual outputs generated from analysis.
-- `/scripts`: Useful scripts for data preprocessing and model training.
+- `/scripts`: Useful scripts for data preprocessing and model training (exist in the different folders).
 
